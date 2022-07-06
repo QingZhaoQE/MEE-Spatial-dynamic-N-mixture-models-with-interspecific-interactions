@@ -7,7 +7,7 @@ nsite <- 60   # number of sites
 nyear <- 20   # number of years
 nreps <- 3    # number of replicates
 ncovs <- 1    # number of environmental covariates
-npcvs <- 1    # number of observational covariates
+npcvs <- 2    # number of observational covariates
 nspec <- 2    # number of species
 
 # intercept and slopes for initial population size
