@@ -1,8 +1,7 @@
 # MEE-Spatial-dynamic-N-mixture-models-with-interspecific-interactions
 Code and data for "Spatial dynamic N-mixture models with interspecific interactions" published in Methods in Ecology and Evolution
 
-File 1. model code
-	R code of simulation and data analysis for the model introduced in the current study.
+File 1. R code for simulation and data analysis for the model introduced in this study.
 
 File 2.1 - 2.6.	Waterfowl data used in the first case study. Data in 2.2 - 2.6 are in the same order as in 2.1.
 	2.1. segment information
